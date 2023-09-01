@@ -9,4 +9,6 @@ been this way?
 industry hubs?
 4. Which investors have funded the most unicorns?
 
-I also wenet further to perform a basic exploratory data analysis of the features of the Unicorn Companies dataset
+I also went further to perform a basic exploratory data analysis of the features of the Unicorn Companies dataset
+
+The challenges i faced was converting the valuation and funding columns to variable/ integer.
